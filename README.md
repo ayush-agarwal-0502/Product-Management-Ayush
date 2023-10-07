@@ -5,4 +5,6 @@ Product Deck by me
 * Domain - Product Management
 
   
-__InterviewBit Product Deck__ - https://github.com/ayush-agarwal-0502/Product-Management-Ayush/blob/main/Interviewbit%20product%20deck.pdf
+__InterviewBit Product Deck__ - (Please Download for better viewing experience :) 
+
+https://github.com/ayush-agarwal-0502/Product-Management-Ayush/blob/main/Interviewbit%20product%20deck.pdf
